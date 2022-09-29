@@ -7,5 +7,4 @@ for l=1:length(adjMat)
         p = p+1; 
     end
 end
-% returns the nearest neighbours of node i in the graph described by adjMat
 end
